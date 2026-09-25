@@ -240,4 +240,4 @@ This repository serves as the official landing page for Torque Game Builder. The
 **Get the most recent version of Torque Game Builder today!**
 
 ---
-**Last updated:** 2026-09-24 22:03:01 UTC
+**Last updated:** 2026-09-25 01:11:56 UTC
